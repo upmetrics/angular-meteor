@@ -37,8 +37,7 @@
     "run_tests.sh",
     "run_tests_ci.sh"
   ],
-  "dependencies": {
-    "meteor-client-side": "~0.2.2",
+  "dependencies": {    
     "angular": "1.4.4"
   }
 }
